@@ -5,33 +5,19 @@
 
   ## Description
   A simple note taker using express.js
-  
-
-  ## Table of contents
-
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [contributions](#Contributors)
-  * [Test](#Test)
-  * [Repository](#Repository)
-  * [Questions](#Questions)
 
   ## Installation
   click the link to visit the website
   https://guarded-fjord-73941.herokuapp.com/
   
-  ## Usage
-  N/A
-
+  ## Screenshot
+<img src="https://i.imgur.com/JaIreHQ.png" />
+  
   ## License
   MIT
 
   ## Contributors
   Menkoi
-
-  ## Test
-  100% Pass
 
   ## Repository
   https://github.com/Menkoi/note-taker
