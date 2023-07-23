@@ -21,12 +21,3 @@
 
   ## Repository
   https://github.com/Menkoi/note-taker
-
-  ## Questions? Contact me
-
-  - Menkoi
-
-  - https://github.com/Menkoi
-
-  - celaeon@gmail.com
-  
